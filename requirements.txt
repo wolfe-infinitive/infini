@@ -1,4 +1,22 @@
+# === Core LangChain + Vector Store ===
 langchain==0.1.16
 langchain-community==0.0.34
-chromadb==0.5.3
-sentence-transformers>=2.2.2
+langchain-core==0.1.53
+langchain-text-splitters==0.0.2
+# (auto-commented unused) chromadb==0.5.3
+# (auto-commented unused) sentence-transformers>=2.2.2
+
+# === Local LLM + API Framework ===
+ollama>=0.1.6
+fastapi>=0.111.0
+sse-starlette>=1.8.2
+pydantic>=2.7.0
+# (auto-commented unused) uvicorn[standard]>=0.30.0   # ✅ include [standard] extras for web server
+
+# === Utilities ===
+pytest>=8.0.0
+faker>=18.0.0
+stdlib-list>=0.10.0
+
+# === auto-added by tests/test_requirements_audit.py ===
+uvicorn

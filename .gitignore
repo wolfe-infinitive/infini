@@ -1,57 +1,103 @@
-# === Python ===
+# ============================================================
+# 🧠 Infini Local AI Assistant - .gitignore
+# ============================================================
+
+# === Python / Virtual Environment ===
 __pycache__/
 *.py[cod]
-*.pyo
-*.pyd
-*.so
-*.egg
-*.egg-info/
-build/
-dist/
-.eggs/
-.pytest_cache/
-*.log
-
-# === Virtual environment ===
+*$py.class
 .venv/
+env/
 venv/
 ENV/
-env/
-*.env
-.env.*
+pip-wheel-metadata/
+*.egg-info/
+.eggs/
+*.egg
+dist/
+build/
 
-# === IDEs & Editors ===
-.vscode/
-.idea/
+# === Logs and Debug ===
+*.log
+*.tmp
+*.bak
 *.swp
 *.swo
-.DS_Store
-
-# === Data / Model / Cache ===
-# Chroma vector database & temporary model blobs
-chroma_db/
-*.bin
-*.pt
-*.ckpt
-*.npy
-
-# === Ollama cache ===
-.ollama/
-~ollama_downloads/
-ollama_models/
-ollama_cache/
-
-# === Local knowledge & testing ===
-knowledge/generated/
-knowledge/tmp/
-__temp__/
-*.tmp
-
-# === FastAPI / Uvicorn runtime ===
+*.old
 *.pid
-*.db
-*.sqlite3
-*.sqlite
 
-# === Node / Frontend (if you add React app) ===
+# === Jupyter / IPython ===
+.ipynb_checkpoints/
+.profile_default/
+ipython_config.py
+
+# === Project Data ===
+# Chroma vector database files (embeddings, indexes, SQLite)
+chroma_db/
+*.sqlite3
+
+# Knowledge generation artifacts
+knowledge/json/
+knowledge/md/*.tmp
+knowledge/md/*.bak
+
+# Temporary exports / generated content
+exports/
+output/
+tmp/
+cache/
+data/
+
+# === OS & Editor ===
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# === IDE / Editor Config ===
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# === Environment / Secrets ===
+.env
+.env.*
+*.secret
+secrets.json
+config.yaml
+config.yml
+
+# === Node / Frontend (if frontend gets added) ===
 node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.tsbuildinfo
+dist/
+build/
+.cache/
+
+# === Test / Coverage ===
+.coverage
+htmlcov/
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.tox/
+.mypy_cache/
+.pyre/
+.pytype/
+
+# === Mac OS & Linux Trash ===
+.Trashes
+.nfs*
+
+# ============================================================
+# ✅ Notes:
+# - Keeps repo clean of local data, caches, and large model files.
+# - You can safely commit knowledge/md/ if you want versioned docs.
+# - chroma_db/ is ignored to prevent embedding files from bloating the repo.
+# ============================================================
