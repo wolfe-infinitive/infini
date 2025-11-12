@@ -1,0 +1,49 @@
+{
+  "id": 47,
+  "title": "Andrews-Lambert Data Platform Modernization",
+  "client": "Andrews-Lambert",
+  "industry": "Public Sector",
+  "summary": "Andrews-Lambert engaged our consulting team to deliver a data platform modernization solution. We built scalable data pipelines, unified governance with Unity Catalog, and deployed ML models using Databricks and MLflow for advanced analytics.",
+  "tech_stack": [
+    "Databricks",
+    "Delta Lake",
+    "Unity Catalog",
+    "Python",
+    "DQX"
+  ],
+  "outcome": "Implemented end-to-end observability and automated DQX checks.",
+  "team_size": 5,
+  "duration_months": 12,
+  "consultants": [
+    {
+      "name": "Philip Perkins",
+      "role": "Machine Learning Engineer"
+    },
+    {
+      "name": "Kendra Ramirez",
+      "role": "Project Manager"
+    },
+    {
+      "name": "Alexander Mcdowell",
+      "role": "Engagement Manager"
+    },
+    {
+      "name": "Richard Santos",
+      "role": "Business Analyst"
+    },
+    {
+      "name": "John Hunter",
+      "role": "Cloud Architect"
+    }
+  ],
+  "client_contacts": [
+    {
+      "name": "Jason Adams",
+      "title": "Head of Analytics"
+    },
+    {
+      "name": "John Martinez",
+      "title": "CIO"
+    }
+  ]
+}

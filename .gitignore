@@ -1,0 +1,57 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+build/
+dist/
+.eggs/
+.pytest_cache/
+*.log
+
+# === Virtual environment ===
+.venv/
+venv/
+ENV/
+env/
+*.env
+.env.*
+
+# === IDEs & Editors ===
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# === Data / Model / Cache ===
+# Chroma vector database & temporary model blobs
+chroma_db/
+*.bin
+*.pt
+*.ckpt
+*.npy
+
+# === Ollama cache ===
+.ollama/
+~ollama_downloads/
+ollama_models/
+ollama_cache/
+
+# === Local knowledge & testing ===
+knowledge/generated/
+knowledge/tmp/
+__temp__/
+*.tmp
+
+# === FastAPI / Uvicorn runtime ===
+*.pid
+*.db
+*.sqlite3
+*.sqlite
+
+# === Node / Frontend (if you add React app) ===
+node_modules/

@@ -1,0 +1,49 @@
+{
+  "id": 19,
+  "title": "Price Real-Time Processing",
+  "client": "Price Hatfield and Tran",
+  "industry": "Healthcare",
+  "summary": "Price Hatfield and Tran engaged our consulting team to deliver a real-time processing solution. We built scalable data pipelines, unified governance with Unity Catalog, and deployed ML models using Databricks and MLflow for advanced analytics.",
+  "tech_stack": [
+    "Kafka",
+    "Spark Streaming",
+    "FastAPI",
+    "Docker",
+    "Kubernetes"
+  ],
+  "outcome": "Implemented end-to-end observability and automated DQX checks.",
+  "team_size": 5,
+  "duration_months": 4,
+  "consultants": [
+    {
+      "name": "Nicholas Terrell",
+      "role": "Lead Data Engineer"
+    },
+    {
+      "name": "Yolanda Lee",
+      "role": "Business Analyst"
+    },
+    {
+      "name": "Christine Brown",
+      "role": "Data Quality Analyst"
+    },
+    {
+      "name": "Michael Cain",
+      "role": "Cloud Architect"
+    },
+    {
+      "name": "Jacqueline Freeman",
+      "role": "Engagement Manager"
+    }
+  ],
+  "client_contacts": [
+    {
+      "name": "Rachel Gallagher",
+      "title": "Director of Data Engineering"
+    },
+    {
+      "name": "James Peterson",
+      "title": "Chief Architect"
+    }
+  ]
+}

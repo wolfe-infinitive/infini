@@ -1,0 +1,48 @@
+{
+  "id": 13,
+  "title": "Freeman Cloud Migration",
+  "client": "Freeman and Sons",
+  "industry": "Healthcare",
+  "summary": "Freeman and Sons engaged our consulting team to deliver a cloud migration solution. We built scalable data pipelines, unified governance with Unity Catalog, and deployed ML models using Databricks and MLflow for advanced analytics.",
+  "tech_stack": [
+    "Snowflake",
+    "dbt",
+    "Airflow",
+    "Tableau"
+  ],
+  "outcome": "Implemented end-to-end observability and automated DQX checks.",
+  "team_size": 7,
+  "duration_months": 12,
+  "consultants": [
+    {
+      "name": "Sharon Cervantes",
+      "role": "Project Manager"
+    },
+    {
+      "name": "Natalie Farrell",
+      "role": "Cloud Architect"
+    },
+    {
+      "name": "Thomas Ramirez",
+      "role": "Business Analyst"
+    },
+    {
+      "name": "Ricky Smith",
+      "role": "Machine Learning Engineer"
+    },
+    {
+      "name": "David Page",
+      "role": "DevOps Engineer"
+    }
+  ],
+  "client_contacts": [
+    {
+      "name": "Lauren Bell",
+      "title": "VP of Technology"
+    },
+    {
+      "name": "Ashley Collins",
+      "title": "CTO"
+    }
+  ]
+}

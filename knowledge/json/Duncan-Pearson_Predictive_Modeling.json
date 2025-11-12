@@ -1,0 +1,52 @@
+{
+  "id": 17,
+  "title": "Duncan-Pearson Predictive Modeling",
+  "client": "Duncan-Pearson",
+  "industry": "Telecommunications",
+  "summary": "Duncan-Pearson engaged our consulting team to deliver a predictive modeling solution. We built scalable data pipelines, unified governance with Unity Catalog, and deployed ML models using Databricks and MLflow for advanced analytics.",
+  "tech_stack": [
+    "Azure Synapse",
+    "Fabric",
+    "Power BI",
+    "PySpark"
+  ],
+  "outcome": "Enabled real-time dashboards for executive visibility.",
+  "team_size": 7,
+  "duration_months": 7,
+  "consultants": [
+    {
+      "name": "Christopher Farmer",
+      "role": "Business Analyst"
+    },
+    {
+      "name": "Meredith Burns",
+      "role": "Lead Data Engineer"
+    },
+    {
+      "name": "Sylvia Lopez",
+      "role": "DevOps Engineer"
+    },
+    {
+      "name": "Madison Pollard",
+      "role": "Machine Learning Engineer"
+    },
+    {
+      "name": "Nicole Gardner",
+      "role": "Data Quality Analyst"
+    },
+    {
+      "name": "Michael Blair",
+      "role": "Cloud Architect"
+    }
+  ],
+  "client_contacts": [
+    {
+      "name": "Jason Hunt",
+      "title": "CIO"
+    },
+    {
+      "name": "Margaret Lopez",
+      "title": "Head of Analytics"
+    }
+  ]
+}

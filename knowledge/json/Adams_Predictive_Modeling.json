@@ -1,0 +1,47 @@
+{
+  "id": 32,
+  "title": "Adams Predictive Modeling",
+  "client": "Adams Group",
+  "industry": "Retail",
+  "summary": "Adams Group engaged our consulting team to deliver a predictive modeling solution. We built scalable data pipelines, unified governance with Unity Catalog, and deployed ML models using Databricks and MLflow for advanced analytics.",
+  "tech_stack": [
+    "GCP BigQuery",
+    "Vertex AI",
+    "Looker Studio"
+  ],
+  "outcome": "Implemented end-to-end observability and automated DQX checks.",
+  "team_size": 7,
+  "duration_months": 3,
+  "consultants": [
+    {
+      "name": "Jonathan Miller",
+      "role": "Engagement Manager"
+    },
+    {
+      "name": "Rachel Ryan",
+      "role": "DevOps Engineer"
+    },
+    {
+      "name": "Carol Ward",
+      "role": "Lead Data Engineer"
+    },
+    {
+      "name": "Carl Clark",
+      "role": "Project Manager"
+    }
+  ],
+  "client_contacts": [
+    {
+      "name": "Aaron Thompson",
+      "title": "Director of Data Engineering"
+    },
+    {
+      "name": "Jose Bailey",
+      "title": "CTO"
+    },
+    {
+      "name": "Tonya Turner",
+      "title": "CTO"
+    }
+  ]
+}

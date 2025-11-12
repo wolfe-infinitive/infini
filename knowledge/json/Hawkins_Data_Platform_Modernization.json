@@ -1,0 +1,45 @@
+{
+  "id": 39,
+  "title": "Hawkins Data Platform Modernization",
+  "client": "Hawkins Williams and Patel",
+  "industry": "Telecommunications",
+  "summary": "Hawkins Williams and Patel engaged our consulting team to deliver a data platform modernization solution. We built scalable data pipelines, unified governance with Unity Catalog, and deployed ML models using Databricks and MLflow for advanced analytics.",
+  "tech_stack": [
+    "AWS Glue",
+    "S3",
+    "Lambda",
+    "Redshift",
+    "MLflow"
+  ],
+  "outcome": "Improved model accuracy by 15% through better feature engineering.",
+  "team_size": 5,
+  "duration_months": 8,
+  "consultants": [
+    {
+      "name": "Jessica Hogan",
+      "role": "Machine Learning Engineer"
+    },
+    {
+      "name": "Gina Greer",
+      "role": "Project Manager"
+    },
+    {
+      "name": "Stephen Scott",
+      "role": "Engagement Manager"
+    },
+    {
+      "name": "Kylie Todd",
+      "role": "Cloud Architect"
+    }
+  ],
+  "client_contacts": [
+    {
+      "name": "Zachary Clark",
+      "title": "VP of Technology"
+    },
+    {
+      "name": "Steven Dixon",
+      "title": "Head of Analytics"
+    }
+  ]
+}

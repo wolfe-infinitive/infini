@@ -1,0 +1,49 @@
+{
+  "id": 42,
+  "title": "White Data Quality Framework",
+  "client": "White PLC",
+  "industry": "Manufacturing",
+  "summary": "White PLC engaged our consulting team to deliver a data quality framework solution. We built scalable data pipelines, unified governance with Unity Catalog, and deployed ML models using Databricks and MLflow for advanced analytics.",
+  "tech_stack": [
+    "Databricks",
+    "Delta Lake",
+    "Unity Catalog",
+    "Python",
+    "DQX"
+  ],
+  "outcome": "Implemented end-to-end observability and automated DQX checks.",
+  "team_size": 5,
+  "duration_months": 3,
+  "consultants": [
+    {
+      "name": "Victoria Parker",
+      "role": "DevOps Engineer"
+    },
+    {
+      "name": "Nicole Long",
+      "role": "Engagement Manager"
+    },
+    {
+      "name": "April Norman",
+      "role": "Project Manager"
+    },
+    {
+      "name": "Lance Lam",
+      "role": "Lead Data Engineer"
+    }
+  ],
+  "client_contacts": [
+    {
+      "name": "Jennifer Jones",
+      "title": "Head of Analytics"
+    },
+    {
+      "name": "Ryan Taylor",
+      "title": "Chief Architect"
+    },
+    {
+      "name": "Amy Russell",
+      "title": "Director of Data Engineering"
+    }
+  ]
+}

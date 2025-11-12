@@ -1,0 +1,52 @@
+{
+  "id": 31,
+  "title": "Gutierrez Real-Time Processing",
+  "client": "Gutierrez LLC",
+  "industry": "Manufacturing",
+  "summary": "Gutierrez LLC engaged our consulting team to deliver a real-time processing solution. We built scalable data pipelines, unified governance with Unity Catalog, and deployed ML models using Databricks and MLflow for advanced analytics.",
+  "tech_stack": [
+    "Snowflake",
+    "dbt",
+    "Airflow",
+    "Tableau"
+  ],
+  "outcome": "Improved model accuracy by 15% through better feature engineering.",
+  "team_size": 6,
+  "duration_months": 11,
+  "consultants": [
+    {
+      "name": "Randy Andrews",
+      "role": "Lead Data Engineer"
+    },
+    {
+      "name": "William Walters",
+      "role": "DevOps Engineer"
+    },
+    {
+      "name": "Mark Chavez",
+      "role": "Engagement Manager"
+    },
+    {
+      "name": "Jaclyn Harrell",
+      "role": "Cloud Architect"
+    },
+    {
+      "name": "Dakota Anderson",
+      "role": "Machine Learning Engineer"
+    },
+    {
+      "name": "Matthew Payne",
+      "role": "Data Quality Analyst"
+    }
+  ],
+  "client_contacts": [
+    {
+      "name": "Eric Hancock",
+      "title": "CIO"
+    },
+    {
+      "name": "Matthew Cox",
+      "title": "CIO"
+    }
+  ]
+}

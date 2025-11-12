@@ -1,0 +1,52 @@
+{
+  "id": 28,
+  "title": "Knox Predictive Modeling",
+  "client": "Knox Group",
+  "industry": "Manufacturing",
+  "summary": "Knox Group engaged our consulting team to deliver a predictive modeling solution. We built scalable data pipelines, unified governance with Unity Catalog, and deployed ML models using Databricks and MLflow for advanced analytics.",
+  "tech_stack": [
+    "Snowflake",
+    "dbt",
+    "Airflow",
+    "Tableau"
+  ],
+  "outcome": "Lowered infrastructure cost by 25% using serverless ETL pipelines.",
+  "team_size": 6,
+  "duration_months": 7,
+  "consultants": [
+    {
+      "name": "Monica Scott",
+      "role": "Lead Data Engineer"
+    },
+    {
+      "name": "Russell Holt",
+      "role": "Machine Learning Engineer"
+    },
+    {
+      "name": "Joshua Stark",
+      "role": "Project Manager"
+    },
+    {
+      "name": "Jessica Scott",
+      "role": "Engagement Manager"
+    },
+    {
+      "name": "Nathaniel Smith",
+      "role": "Cloud Architect"
+    },
+    {
+      "name": "John Reese",
+      "role": "DevOps Engineer"
+    }
+  ],
+  "client_contacts": [
+    {
+      "name": "Jamie Rivera",
+      "title": "Director of Data Engineering"
+    },
+    {
+      "name": "Jennifer Miles",
+      "title": "CIO"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 27,
+  "title": "Smith-Barnes AI-Powered Analytics",
+  "client": "Smith-Barnes",
+  "industry": "Manufacturing",
+  "summary": "Smith-Barnes engaged our consulting team to deliver a ai-powered analytics solution. We built scalable data pipelines, unified governance with Unity Catalog, and deployed ML models using Databricks and MLflow for advanced analytics.",
+  "tech_stack": [
+    "Kafka",
+    "Spark Streaming",
+    "FastAPI",
+    "Docker",
+    "Kubernetes"
+  ],
+  "outcome": "Reduced data processing time by 40%.",
+  "team_size": 8,
+  "duration_months": 3,
+  "consultants": [
+    {
+      "name": "Annette Mccormick",
+      "role": "Business Analyst"
+    },
+    {
+      "name": "Ryan Reed",
+      "role": "Machine Learning Engineer"
+    },
+    {
+      "name": "Anna Turner",
+      "role": "Project Manager"
+    },
+    {
+      "name": "Amber Wilson",
+      "role": "Data Quality Analyst"
+    },
+    {
+      "name": "Pamela Richards",
+      "role": "Engagement Manager"
+    },
+    {
+      "name": "Kelly Page",
+      "role": "Lead Data Engineer"
+    }
+  ],
+  "client_contacts": [
+    {
+      "name": "Jasmine Jackson",
+      "title": "CTO"
+    },
+    {
+      "name": "Dustin Miller",
+      "title": "Chief Architect"
+    },
+    {
+      "name": "Brittney Alexander",
+      "title": "VP of Technology"
+    }
+  ]
+}

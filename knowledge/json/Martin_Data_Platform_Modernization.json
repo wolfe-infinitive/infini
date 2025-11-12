@@ -1,0 +1,49 @@
+{
+  "id": 5,
+  "title": "Martin Data Platform Modernization",
+  "client": "Martin Mosley and Mckee",
+  "industry": "Manufacturing",
+  "summary": "Martin Mosley and Mckee engaged our consulting team to deliver a data platform modernization solution. We built scalable data pipelines, unified governance with Unity Catalog, and deployed ML models using Databricks and MLflow for advanced analytics.",
+  "tech_stack": [
+    "Kafka",
+    "Spark Streaming",
+    "FastAPI",
+    "Docker",
+    "Kubernetes"
+  ],
+  "outcome": "Implemented end-to-end observability and automated DQX checks.",
+  "team_size": 7,
+  "duration_months": 8,
+  "consultants": [
+    {
+      "name": "Kevin Bailey",
+      "role": "DevOps Engineer"
+    },
+    {
+      "name": "Beth Wilson",
+      "role": "Machine Learning Engineer"
+    },
+    {
+      "name": "Steven Wells",
+      "role": "Lead Data Engineer"
+    },
+    {
+      "name": "Shawn Bush",
+      "role": "Data Quality Analyst"
+    }
+  ],
+  "client_contacts": [
+    {
+      "name": "Michelle Hodges",
+      "title": "VP of Technology"
+    },
+    {
+      "name": "Nicole Rodriguez",
+      "title": "CTO"
+    },
+    {
+      "name": "Tabitha Singleton",
+      "title": "VP of Technology"
+    }
+  ]
+}

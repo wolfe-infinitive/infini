@@ -1,0 +1,53 @@
+{
+  "id": 36,
+  "title": "Schultz Cloud Migration",
+  "client": "Schultz PLC",
+  "industry": "Manufacturing",
+  "summary": "Schultz PLC engaged our consulting team to deliver a cloud migration solution. We built scalable data pipelines, unified governance with Unity Catalog, and deployed ML models using Databricks and MLflow for advanced analytics.",
+  "tech_stack": [
+    "Kafka",
+    "Spark Streaming",
+    "FastAPI",
+    "Docker",
+    "Kubernetes"
+  ],
+  "outcome": "Reduced data processing time by 40%.",
+  "team_size": 7,
+  "duration_months": 4,
+  "consultants": [
+    {
+      "name": "Amy Patrick",
+      "role": "Data Quality Analyst"
+    },
+    {
+      "name": "Mary Sanchez",
+      "role": "Lead Data Engineer"
+    },
+    {
+      "name": "Kristi Martinez",
+      "role": "Business Analyst"
+    },
+    {
+      "name": "Michaela Ponce",
+      "role": "Engagement Manager"
+    },
+    {
+      "name": "Stacy Carter",
+      "role": "Machine Learning Engineer"
+    }
+  ],
+  "client_contacts": [
+    {
+      "name": "Marcus Harvey",
+      "title": "VP of Technology"
+    },
+    {
+      "name": "Courtney Sanchez",
+      "title": "VP of Technology"
+    },
+    {
+      "name": "Barbara Lynch",
+      "title": "CTO"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": 26,
+  "title": "Shah Real-Time Processing",
+  "client": "Shah Cummings and Gibson",
+  "industry": "Finance",
+  "summary": "Shah Cummings and Gibson engaged our consulting team to deliver a real-time processing solution. We built scalable data pipelines, unified governance with Unity Catalog, and deployed ML models using Databricks and MLflow for advanced analytics.",
+  "tech_stack": [
+    "Databricks",
+    "Delta Lake",
+    "Unity Catalog",
+    "Python",
+    "DQX"
+  ],
+  "outcome": "Enabled real-time dashboards for executive visibility.",
+  "team_size": 5,
+  "duration_months": 9,
+  "consultants": [
+    {
+      "name": "Misty Short",
+      "role": "Machine Learning Engineer"
+    },
+    {
+      "name": "Caitlyn Bennett",
+      "role": "DevOps Engineer"
+    },
+    {
+      "name": "Brandon Perry",
+      "role": "Project Manager"
+    },
+    {
+      "name": "Dawn Morgan",
+      "role": "Lead Data Engineer"
+    },
+    {
+      "name": "Edward Davis",
+      "role": "Engagement Manager"
+    },
+    {
+      "name": "Dustin Harris",
+      "role": "Data Quality Analyst"
+    }
+  ],
+  "client_contacts": [
+    {
+      "name": "Regina James",
+      "title": "CIO"
+    },
+    {
+      "name": "Maria Hartman",
+      "title": "Head of Analytics"
+    }
+  ]
+}

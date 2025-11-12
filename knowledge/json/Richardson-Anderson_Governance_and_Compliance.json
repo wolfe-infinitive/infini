@@ -1,0 +1,56 @@
+{
+  "id": 23,
+  "title": "Richardson-Anderson Governance and Compliance",
+  "client": "Richardson-Anderson",
+  "industry": "Manufacturing",
+  "summary": "Richardson-Anderson engaged our consulting team to deliver a governance and compliance solution. We built scalable data pipelines, unified governance with Unity Catalog, and deployed ML models using Databricks and MLflow for advanced analytics.",
+  "tech_stack": [
+    "Azure Synapse",
+    "Fabric",
+    "Power BI",
+    "PySpark"
+  ],
+  "outcome": "Improved model accuracy by 15% through better feature engineering.",
+  "team_size": 4,
+  "duration_months": 8,
+  "consultants": [
+    {
+      "name": "Brooke Schaefer",
+      "role": "Cloud Architect"
+    },
+    {
+      "name": "Tina Brown",
+      "role": "Business Analyst"
+    },
+    {
+      "name": "Linda Burton",
+      "role": "Project Manager"
+    },
+    {
+      "name": "Jennifer Ramirez",
+      "role": "Lead Data Engineer"
+    },
+    {
+      "name": "Nathan Strong",
+      "role": "Data Quality Analyst"
+    },
+    {
+      "name": "Jeffrey Clarke",
+      "role": "Engagement Manager"
+    }
+  ],
+  "client_contacts": [
+    {
+      "name": "Karla Wright",
+      "title": "Head of Analytics"
+    },
+    {
+      "name": "Mary Conner",
+      "title": "CIO"
+    },
+    {
+      "name": "Elizabeth Gonzalez",
+      "title": "Head of Analytics"
+    }
+  ]
+}

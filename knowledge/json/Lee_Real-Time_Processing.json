@@ -1,0 +1,53 @@
+{
+  "id": 24,
+  "title": "Lee Real-Time Processing",
+  "client": "Lee Johnson and Newman",
+  "industry": "Telecommunications",
+  "summary": "Lee Johnson and Newman engaged our consulting team to deliver a real-time processing solution. We built scalable data pipelines, unified governance with Unity Catalog, and deployed ML models using Databricks and MLflow for advanced analytics.",
+  "tech_stack": [
+    "Kafka",
+    "Spark Streaming",
+    "FastAPI",
+    "Docker",
+    "Kubernetes"
+  ],
+  "outcome": "Reduced data processing time by 40%.",
+  "team_size": 4,
+  "duration_months": 6,
+  "consultants": [
+    {
+      "name": "Darryl Munoz",
+      "role": "Lead Data Engineer"
+    },
+    {
+      "name": "Garrett Smith",
+      "role": "Project Manager"
+    },
+    {
+      "name": "Jocelyn Munoz",
+      "role": "Engagement Manager"
+    },
+    {
+      "name": "Lauren Mann",
+      "role": "Machine Learning Engineer"
+    },
+    {
+      "name": "Pamela Prince",
+      "role": "Data Quality Analyst"
+    },
+    {
+      "name": "Carrie Baker",
+      "role": "DevOps Engineer"
+    }
+  ],
+  "client_contacts": [
+    {
+      "name": "Jacqueline Harris",
+      "title": "Chief Architect"
+    },
+    {
+      "name": "Stephanie Watson",
+      "title": "CTO"
+    }
+  ]
+}

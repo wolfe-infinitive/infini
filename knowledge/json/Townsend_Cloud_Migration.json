@@ -1,0 +1,53 @@
+{
+  "id": 25,
+  "title": "Townsend Cloud Migration",
+  "client": "Townsend Inc",
+  "industry": "Manufacturing",
+  "summary": "Townsend Inc engaged our consulting team to deliver a cloud migration solution. We built scalable data pipelines, unified governance with Unity Catalog, and deployed ML models using Databricks and MLflow for advanced analytics.",
+  "tech_stack": [
+    "Databricks",
+    "Delta Lake",
+    "Unity Catalog",
+    "Python",
+    "DQX"
+  ],
+  "outcome": "Enabled real-time dashboards for executive visibility.",
+  "team_size": 5,
+  "duration_months": 4,
+  "consultants": [
+    {
+      "name": "Angela Barnett",
+      "role": "Data Quality Analyst"
+    },
+    {
+      "name": "Laurie Miller",
+      "role": "Engagement Manager"
+    },
+    {
+      "name": "Christina Ballard",
+      "role": "Machine Learning Engineer"
+    },
+    {
+      "name": "Sharon Lewis",
+      "role": "Project Manager"
+    },
+    {
+      "name": "William Sutton",
+      "role": "Business Analyst"
+    }
+  ],
+  "client_contacts": [
+    {
+      "name": "Jennifer Moore",
+      "title": "Head of Analytics"
+    },
+    {
+      "name": "Brittany Lee",
+      "title": "Chief Architect"
+    },
+    {
+      "name": "Courtney Parsons",
+      "title": "Head of Analytics"
+    }
+  ]
+}

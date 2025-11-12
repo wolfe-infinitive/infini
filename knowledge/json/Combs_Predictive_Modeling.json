@@ -1,0 +1,44 @@
+{
+  "id": 29,
+  "title": "Combs Predictive Modeling",
+  "client": "Combs Johnson and Williams",
+  "industry": "Education",
+  "summary": "Combs Johnson and Williams engaged our consulting team to deliver a predictive modeling solution. We built scalable data pipelines, unified governance with Unity Catalog, and deployed ML models using Databricks and MLflow for advanced analytics.",
+  "tech_stack": [
+    "Azure Synapse",
+    "Fabric",
+    "Power BI",
+    "PySpark"
+  ],
+  "outcome": "Reduced data processing time by 40%.",
+  "team_size": 5,
+  "duration_months": 11,
+  "consultants": [
+    {
+      "name": "Amanda Gutierrez",
+      "role": "Data Quality Analyst"
+    },
+    {
+      "name": "Eric Smith",
+      "role": "Project Manager"
+    },
+    {
+      "name": "Christopher Smith",
+      "role": "Business Analyst"
+    },
+    {
+      "name": "Megan Charles",
+      "role": "Engagement Manager"
+    }
+  ],
+  "client_contacts": [
+    {
+      "name": "Joy Bradford",
+      "title": "CIO"
+    },
+    {
+      "name": "Hunter Farrell",
+      "title": "Head of Analytics"
+    }
+  ]
+}

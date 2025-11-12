@@ -1,0 +1,44 @@
+{
+  "id": 2,
+  "title": "Moore Data Quality Framework",
+  "client": "Moore Ltd",
+  "industry": "Education",
+  "summary": "Moore Ltd engaged our consulting team to deliver a data quality framework solution. We built scalable data pipelines, unified governance with Unity Catalog, and deployed ML models using Databricks and MLflow for advanced analytics.",
+  "tech_stack": [
+    "Azure Synapse",
+    "Fabric",
+    "Power BI",
+    "PySpark"
+  ],
+  "outcome": "Reduced data processing time by 40%.",
+  "team_size": 8,
+  "duration_months": 5,
+  "consultants": [
+    {
+      "name": "Gregory Johnson",
+      "role": "Data Quality Analyst"
+    },
+    {
+      "name": "Jodi Ramirez",
+      "role": "DevOps Engineer"
+    },
+    {
+      "name": "Thomas Green",
+      "role": "Engagement Manager"
+    },
+    {
+      "name": "Nancy Lozano",
+      "role": "Project Manager"
+    }
+  ],
+  "client_contacts": [
+    {
+      "name": "Sherry Martinez",
+      "title": "Chief Architect"
+    },
+    {
+      "name": "Beth Kelley",
+      "title": "VP of Technology"
+    }
+  ]
+}

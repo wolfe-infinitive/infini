@@ -1,0 +1,48 @@
+{
+  "id": 8,
+  "title": "Miller ETL Automation",
+  "client": "Miller Obrien and Edwards",
+  "industry": "Insurance",
+  "summary": "Miller Obrien and Edwards engaged our consulting team to deliver a etl automation solution. We built scalable data pipelines, unified governance with Unity Catalog, and deployed ML models using Databricks and MLflow for advanced analytics.",
+  "tech_stack": [
+    "Snowflake",
+    "dbt",
+    "Airflow",
+    "Tableau"
+  ],
+  "outcome": "Lowered infrastructure cost by 25% using serverless ETL pipelines.",
+  "team_size": 5,
+  "duration_months": 5,
+  "consultants": [
+    {
+      "name": "Amy Knight",
+      "role": "Machine Learning Engineer"
+    },
+    {
+      "name": "Terri Avila",
+      "role": "Cloud Architect"
+    },
+    {
+      "name": "Mark Riley",
+      "role": "Lead Data Engineer"
+    },
+    {
+      "name": "Crystal Robbins",
+      "role": "Engagement Manager"
+    },
+    {
+      "name": "Nicholas Holt",
+      "role": "Project Manager"
+    }
+  ],
+  "client_contacts": [
+    {
+      "name": "Janice Herring",
+      "title": "Chief Architect"
+    },
+    {
+      "name": "Ellen Jenkins",
+      "title": "VP of Technology"
+    }
+  ]
+}

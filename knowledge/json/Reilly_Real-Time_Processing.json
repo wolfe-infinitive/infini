@@ -1,0 +1,49 @@
+{
+  "id": 22,
+  "title": "Reilly Real-Time Processing",
+  "client": "Reilly LLC",
+  "industry": "Finance",
+  "summary": "Reilly LLC engaged our consulting team to deliver a real-time processing solution. We built scalable data pipelines, unified governance with Unity Catalog, and deployed ML models using Databricks and MLflow for advanced analytics.",
+  "tech_stack": [
+    "AWS Glue",
+    "S3",
+    "Lambda",
+    "Redshift",
+    "MLflow"
+  ],
+  "outcome": "Reduced data processing time by 40%.",
+  "team_size": 8,
+  "duration_months": 11,
+  "consultants": [
+    {
+      "name": "John Chase",
+      "role": "Business Analyst"
+    },
+    {
+      "name": "Nicole Johnson",
+      "role": "Machine Learning Engineer"
+    },
+    {
+      "name": "Katrina Ryan",
+      "role": "Data Quality Analyst"
+    },
+    {
+      "name": "Brian Page",
+      "role": "Project Manager"
+    },
+    {
+      "name": "Jason Hess",
+      "role": "Lead Data Engineer"
+    }
+  ],
+  "client_contacts": [
+    {
+      "name": "Natasha Rogers",
+      "title": "Head of Analytics"
+    },
+    {
+      "name": "Emma Cummings",
+      "title": "CTO"
+    }
+  ]
+}

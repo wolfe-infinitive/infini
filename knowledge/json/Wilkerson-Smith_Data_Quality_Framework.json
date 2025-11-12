@@ -1,0 +1,49 @@
+{
+  "id": 21,
+  "title": "Wilkerson-Smith Data Quality Framework",
+  "client": "Wilkerson-Smith",
+  "industry": "Retail",
+  "summary": "Wilkerson-Smith engaged our consulting team to deliver a data quality framework solution. We built scalable data pipelines, unified governance with Unity Catalog, and deployed ML models using Databricks and MLflow for advanced analytics.",
+  "tech_stack": [
+    "Kafka",
+    "Spark Streaming",
+    "FastAPI",
+    "Docker",
+    "Kubernetes"
+  ],
+  "outcome": "Enabled real-time dashboards for executive visibility.",
+  "team_size": 7,
+  "duration_months": 12,
+  "consultants": [
+    {
+      "name": "Donna Jimenez",
+      "role": "Machine Learning Engineer"
+    },
+    {
+      "name": "Jacob Chandler",
+      "role": "Cloud Architect"
+    },
+    {
+      "name": "Mary Nelson",
+      "role": "Lead Data Engineer"
+    },
+    {
+      "name": "Gregory Estrada",
+      "role": "Project Manager"
+    }
+  ],
+  "client_contacts": [
+    {
+      "name": "Joann Bates",
+      "title": "Head of Analytics"
+    },
+    {
+      "name": "Edward Rocha",
+      "title": "VP of Technology"
+    },
+    {
+      "name": "Steve Adams",
+      "title": "CTO"
+    }
+  ]
+}

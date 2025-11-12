@@ -1,0 +1,49 @@
+{
+  "id": 4,
+  "title": "Jackson Cloud Migration",
+  "client": "Jackson Inc",
+  "industry": "Healthcare",
+  "summary": "Jackson Inc engaged our consulting team to deliver a cloud migration solution. We built scalable data pipelines, unified governance with Unity Catalog, and deployed ML models using Databricks and MLflow for advanced analytics.",
+  "tech_stack": [
+    "Databricks",
+    "Delta Lake",
+    "Unity Catalog",
+    "Python",
+    "DQX"
+  ],
+  "outcome": "Improved model accuracy by 15% through better feature engineering.",
+  "team_size": 6,
+  "duration_months": 9,
+  "consultants": [
+    {
+      "name": "Benjamin Reed",
+      "role": "Lead Data Engineer"
+    },
+    {
+      "name": "Melissa Juarez",
+      "role": "Cloud Architect"
+    },
+    {
+      "name": "Julie Terry",
+      "role": "Project Manager"
+    },
+    {
+      "name": "Samantha Smith",
+      "role": "DevOps Engineer"
+    },
+    {
+      "name": "John Yates",
+      "role": "Business Analyst"
+    }
+  ],
+  "client_contacts": [
+    {
+      "name": "Michele Shaw",
+      "title": "CTO"
+    },
+    {
+      "name": "Eric Avery",
+      "title": "VP of Technology"
+    }
+  ]
+}

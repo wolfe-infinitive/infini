@@ -1,0 +1,53 @@
+{
+  "id": 9,
+  "title": "Lang Cloud Migration",
+  "client": "Lang Inc",
+  "industry": "Telecommunications",
+  "summary": "Lang Inc engaged our consulting team to deliver a cloud migration solution. We built scalable data pipelines, unified governance with Unity Catalog, and deployed ML models using Databricks and MLflow for advanced analytics.",
+  "tech_stack": [
+    "AWS Glue",
+    "S3",
+    "Lambda",
+    "Redshift",
+    "MLflow"
+  ],
+  "outcome": "Improved model accuracy by 15% through better feature engineering.",
+  "team_size": 4,
+  "duration_months": 7,
+  "consultants": [
+    {
+      "name": "Jesse Buchanan",
+      "role": "Business Analyst"
+    },
+    {
+      "name": "Christopher Johnson",
+      "role": "Lead Data Engineer"
+    },
+    {
+      "name": "Brittany Parker",
+      "role": "DevOps Engineer"
+    },
+    {
+      "name": "Anne Wallace",
+      "role": "Data Quality Analyst"
+    },
+    {
+      "name": "Elizabeth Singh",
+      "role": "Machine Learning Engineer"
+    },
+    {
+      "name": "Ernest Campbell",
+      "role": "Engagement Manager"
+    }
+  ],
+  "client_contacts": [
+    {
+      "name": "Tony Mueller",
+      "title": "CIO"
+    },
+    {
+      "name": "David Perez",
+      "title": "CIO"
+    }
+  ]
+}

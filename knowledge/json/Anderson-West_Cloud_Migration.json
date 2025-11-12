@@ -1,0 +1,51 @@
+{
+  "id": 37,
+  "title": "Anderson-West Cloud Migration",
+  "client": "Anderson-West",
+  "industry": "Manufacturing",
+  "summary": "Anderson-West engaged our consulting team to deliver a cloud migration solution. We built scalable data pipelines, unified governance with Unity Catalog, and deployed ML models using Databricks and MLflow for advanced analytics.",
+  "tech_stack": [
+    "GCP BigQuery",
+    "Vertex AI",
+    "Looker Studio"
+  ],
+  "outcome": "Reduced data processing time by 40%.",
+  "team_size": 6,
+  "duration_months": 10,
+  "consultants": [
+    {
+      "name": "Jonathan Obrien",
+      "role": "Machine Learning Engineer"
+    },
+    {
+      "name": "Diana Le",
+      "role": "DevOps Engineer"
+    },
+    {
+      "name": "Michael Owens",
+      "role": "Data Quality Analyst"
+    },
+    {
+      "name": "Joel Solis",
+      "role": "Lead Data Engineer"
+    },
+    {
+      "name": "Adam Brown",
+      "role": "Cloud Architect"
+    }
+  ],
+  "client_contacts": [
+    {
+      "name": "Raymond Parsons",
+      "title": "CTO"
+    },
+    {
+      "name": "Marcus Mathews",
+      "title": "CIO"
+    },
+    {
+      "name": "Chad Kim",
+      "title": "VP of Technology"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": 7,
+  "title": "Webb-Pearson Real-Time Processing",
+  "client": "Webb-Pearson",
+  "industry": "Public Sector",
+  "summary": "Webb-Pearson engaged our consulting team to deliver a real-time processing solution. We built scalable data pipelines, unified governance with Unity Catalog, and deployed ML models using Databricks and MLflow for advanced analytics.",
+  "tech_stack": [
+    "Databricks",
+    "Delta Lake",
+    "Unity Catalog",
+    "Python",
+    "DQX"
+  ],
+  "outcome": "Reduced data processing time by 40%.",
+  "team_size": 8,
+  "duration_months": 12,
+  "consultants": [
+    {
+      "name": "Matthew Obrien",
+      "role": "Cloud Architect"
+    },
+    {
+      "name": "Jonathan Hart",
+      "role": "DevOps Engineer"
+    },
+    {
+      "name": "Bruce Young",
+      "role": "Project Manager"
+    },
+    {
+      "name": "Mario Perez",
+      "role": "Business Analyst"
+    }
+  ],
+  "client_contacts": [
+    {
+      "name": "John Schmitt",
+      "title": "Director of Data Engineering"
+    },
+    {
+      "name": "Alex Sosa",
+      "title": "Head of Analytics"
+    },
+    {
+      "name": "Mary Cochran",
+      "title": "Head of Analytics"
+    }
+  ]
+}

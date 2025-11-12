@@ -1,0 +1,57 @@
+{
+  "id": 1,
+  "title": "Crawford Real-Time Processing",
+  "client": "Crawford Ltd",
+  "industry": "Retail",
+  "summary": "Crawford Ltd engaged our consulting team to deliver a real-time processing solution. We built scalable data pipelines, unified governance with Unity Catalog, and deployed ML models using Databricks and MLflow for advanced analytics.",
+  "tech_stack": [
+    "AWS Glue",
+    "S3",
+    "Lambda",
+    "Redshift",
+    "MLflow"
+  ],
+  "outcome": "Implemented end-to-end observability and automated DQX checks.",
+  "team_size": 4,
+  "duration_months": 8,
+  "consultants": [
+    {
+      "name": "Melissa Taylor",
+      "role": "Cloud Architect"
+    },
+    {
+      "name": "Brandon Bridges",
+      "role": "Project Manager"
+    },
+    {
+      "name": "Jasmine Sexton",
+      "role": "Lead Data Engineer"
+    },
+    {
+      "name": "Theodore Bullock",
+      "role": "DevOps Engineer"
+    },
+    {
+      "name": "Taylor Fernandez",
+      "role": "Data Quality Analyst"
+    },
+    {
+      "name": "Steve Hoffman",
+      "role": "Machine Learning Engineer"
+    }
+  ],
+  "client_contacts": [
+    {
+      "name": "Courtney Alexander",
+      "title": "Head of Analytics"
+    },
+    {
+      "name": "Sarah Walker",
+      "title": "VP of Technology"
+    },
+    {
+      "name": "Joshua Soto",
+      "title": "VP of Technology"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 46,
+  "title": "Todd-Levine Cloud Migration",
+  "client": "Todd-Levine",
+  "industry": "Education",
+  "summary": "Todd-Levine engaged our consulting team to deliver a cloud migration solution. We built scalable data pipelines, unified governance with Unity Catalog, and deployed ML models using Databricks and MLflow for advanced analytics.",
+  "tech_stack": [
+    "Snowflake",
+    "dbt",
+    "Airflow",
+    "Tableau"
+  ],
+  "outcome": "Lowered infrastructure cost by 25% using serverless ETL pipelines.",
+  "team_size": 6,
+  "duration_months": 8,
+  "consultants": [
+    {
+      "name": "Deborah Roberts",
+      "role": "Data Quality Analyst"
+    },
+    {
+      "name": "Rebecca Miller",
+      "role": "Business Analyst"
+    },
+    {
+      "name": "Kimberly Clark",
+      "role": "Engagement Manager"
+    },
+    {
+      "name": "Cheryl Bell",
+      "role": "Cloud Architect"
+    },
+    {
+      "name": "Alex Delgado",
+      "role": "Machine Learning Engineer"
+    }
+  ],
+  "client_contacts": [
+    {
+      "name": "Timothy Green",
+      "title": "Director of Data Engineering"
+    },
+    {
+      "name": "Alexis Porter",
+      "title": "Chief Architect"
+    },
+    {
+      "name": "Hunter Carpenter",
+      "title": "VP of Technology"
+    }
+  ]
+}

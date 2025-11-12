@@ -1,0 +1,49 @@
+{
+  "id": 35,
+  "title": "Harris Cloud Migration",
+  "client": "Harris Lopez and James",
+  "industry": "Public Sector",
+  "summary": "Harris Lopez and James engaged our consulting team to deliver a cloud migration solution. We built scalable data pipelines, unified governance with Unity Catalog, and deployed ML models using Databricks and MLflow for advanced analytics.",
+  "tech_stack": [
+    "Databricks",
+    "Delta Lake",
+    "Unity Catalog",
+    "Python",
+    "DQX"
+  ],
+  "outcome": "Reduced data processing time by 40%.",
+  "team_size": 4,
+  "duration_months": 6,
+  "consultants": [
+    {
+      "name": "Ashley Dudley",
+      "role": "Cloud Architect"
+    },
+    {
+      "name": "Dennis Brock",
+      "role": "Machine Learning Engineer"
+    },
+    {
+      "name": "Yvonne Wright",
+      "role": "Business Analyst"
+    },
+    {
+      "name": "Ashlee Elliott",
+      "role": "DevOps Engineer"
+    }
+  ],
+  "client_contacts": [
+    {
+      "name": "Brenda Banks",
+      "title": "Head of Analytics"
+    },
+    {
+      "name": "David Eaton",
+      "title": "VP of Technology"
+    },
+    {
+      "name": "Sherri Briggs",
+      "title": "Chief Architect"
+    }
+  ]
+}

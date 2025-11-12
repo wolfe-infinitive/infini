@@ -1,0 +1,51 @@
+{
+  "id": 49,
+  "title": "Robles-Jones Predictive Modeling",
+  "client": "Robles-Jones",
+  "industry": "Manufacturing",
+  "summary": "Robles-Jones engaged our consulting team to deliver a predictive modeling solution. We built scalable data pipelines, unified governance with Unity Catalog, and deployed ML models using Databricks and MLflow for advanced analytics.",
+  "tech_stack": [
+    "GCP BigQuery",
+    "Vertex AI",
+    "Looker Studio"
+  ],
+  "outcome": "Enabled real-time dashboards for executive visibility.",
+  "team_size": 8,
+  "duration_months": 5,
+  "consultants": [
+    {
+      "name": "Joseph Parrish",
+      "role": "Lead Data Engineer"
+    },
+    {
+      "name": "Kimberly Williams",
+      "role": "Project Manager"
+    },
+    {
+      "name": "Adrian Drake",
+      "role": "Machine Learning Engineer"
+    },
+    {
+      "name": "Sara Sanders",
+      "role": "Data Quality Analyst"
+    },
+    {
+      "name": "Kevin Henderson",
+      "role": "DevOps Engineer"
+    }
+  ],
+  "client_contacts": [
+    {
+      "name": "Angela Miranda",
+      "title": "Head of Analytics"
+    },
+    {
+      "name": "Lorraine Smith",
+      "title": "Director of Data Engineering"
+    },
+    {
+      "name": "Victoria Christian",
+      "title": "Chief Architect"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": 38,
+  "title": "Robertson AI-Powered Analytics",
+  "client": "Robertson LLC",
+  "industry": "Manufacturing",
+  "summary": "Robertson LLC engaged our consulting team to deliver a ai-powered analytics solution. We built scalable data pipelines, unified governance with Unity Catalog, and deployed ML models using Databricks and MLflow for advanced analytics.",
+  "tech_stack": [
+    "AWS Glue",
+    "S3",
+    "Lambda",
+    "Redshift",
+    "MLflow"
+  ],
+  "outcome": "Lowered infrastructure cost by 25% using serverless ETL pipelines.",
+  "team_size": 6,
+  "duration_months": 7,
+  "consultants": [
+    {
+      "name": "John Liu",
+      "role": "Cloud Architect"
+    },
+    {
+      "name": "Courtney Coleman",
+      "role": "Engagement Manager"
+    },
+    {
+      "name": "Rebecca Sanders",
+      "role": "DevOps Engineer"
+    },
+    {
+      "name": "Angela Soto",
+      "role": "Machine Learning Engineer"
+    },
+    {
+      "name": "Kenneth Johnson",
+      "role": "Data Quality Analyst"
+    },
+    {
+      "name": "Adrian Tate",
+      "role": "Project Manager"
+    }
+  ],
+  "client_contacts": [
+    {
+      "name": "David Hull",
+      "title": "Director of Data Engineering"
+    },
+    {
+      "name": "Natalie Mosley",
+      "title": "Chief Architect"
+    }
+  ]
+}

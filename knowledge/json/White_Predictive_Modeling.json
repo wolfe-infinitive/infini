@@ -1,0 +1,57 @@
+{
+  "id": 30,
+  "title": "White Predictive Modeling",
+  "client": "White Herrera and Valenzuela",
+  "industry": "Retail",
+  "summary": "White Herrera and Valenzuela engaged our consulting team to deliver a predictive modeling solution. We built scalable data pipelines, unified governance with Unity Catalog, and deployed ML models using Databricks and MLflow for advanced analytics.",
+  "tech_stack": [
+    "Databricks",
+    "Delta Lake",
+    "Unity Catalog",
+    "Python",
+    "DQX"
+  ],
+  "outcome": "Lowered infrastructure cost by 25% using serverless ETL pipelines.",
+  "team_size": 5,
+  "duration_months": 4,
+  "consultants": [
+    {
+      "name": "Michelle Orozco",
+      "role": "DevOps Engineer"
+    },
+    {
+      "name": "Sarah Martin",
+      "role": "Project Manager"
+    },
+    {
+      "name": "Adam Wolfe",
+      "role": "Machine Learning Engineer"
+    },
+    {
+      "name": "Jessica Johnson",
+      "role": "Data Quality Analyst"
+    },
+    {
+      "name": "Angela Johnson",
+      "role": "Business Analyst"
+    },
+    {
+      "name": "Bobby Norman",
+      "role": "Engagement Manager"
+    }
+  ],
+  "client_contacts": [
+    {
+      "name": "Ronald Walter",
+      "title": "VP of Technology"
+    },
+    {
+      "name": "James Oliver",
+      "title": "CTO"
+    },
+    {
+      "name": "Stephanie Harris",
+      "title": "Head of Analytics"
+    }
+  ]
+}

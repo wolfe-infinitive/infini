@@ -1,0 +1,52 @@
+{
+  "id": 50,
+  "title": "Santos ETL Automation",
+  "client": "Santos Harrington and Travis",
+  "industry": "Finance",
+  "summary": "Santos Harrington and Travis engaged our consulting team to deliver a etl automation solution. We built scalable data pipelines, unified governance with Unity Catalog, and deployed ML models using Databricks and MLflow for advanced analytics.",
+  "tech_stack": [
+    "Snowflake",
+    "dbt",
+    "Airflow",
+    "Tableau"
+  ],
+  "outcome": "Enabled real-time dashboards for executive visibility.",
+  "team_size": 5,
+  "duration_months": 7,
+  "consultants": [
+    {
+      "name": "Elizabeth Taylor",
+      "role": "Cloud Architect"
+    },
+    {
+      "name": "Katrina Mccann",
+      "role": "Project Manager"
+    },
+    {
+      "name": "Amber Thompson",
+      "role": "Engagement Manager"
+    },
+    {
+      "name": "Tristan Vasquez",
+      "role": "Machine Learning Engineer"
+    },
+    {
+      "name": "Michael Wagner",
+      "role": "Lead Data Engineer"
+    },
+    {
+      "name": "Dustin Deleon",
+      "role": "Data Quality Analyst"
+    }
+  ],
+  "client_contacts": [
+    {
+      "name": "Daryl Shields",
+      "title": "CTO"
+    },
+    {
+      "name": "Paige Perry",
+      "title": "VP of Technology"
+    }
+  ]
+}

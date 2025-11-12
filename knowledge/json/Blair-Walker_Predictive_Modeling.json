@@ -1,0 +1,51 @@
+{
+  "id": 11,
+  "title": "Blair-Walker Predictive Modeling",
+  "client": "Blair-Walker",
+  "industry": "Retail",
+  "summary": "Blair-Walker engaged our consulting team to deliver a predictive modeling solution. We built scalable data pipelines, unified governance with Unity Catalog, and deployed ML models using Databricks and MLflow for advanced analytics.",
+  "tech_stack": [
+    "GCP BigQuery",
+    "Vertex AI",
+    "Looker Studio"
+  ],
+  "outcome": "Implemented end-to-end observability and automated DQX checks.",
+  "team_size": 6,
+  "duration_months": 4,
+  "consultants": [
+    {
+      "name": "Jonathan Walsh",
+      "role": "Project Manager"
+    },
+    {
+      "name": "Andrea Best",
+      "role": "Engagement Manager"
+    },
+    {
+      "name": "Anthony Daniels",
+      "role": "Cloud Architect"
+    },
+    {
+      "name": "Ashley Kramer",
+      "role": "Machine Learning Engineer"
+    },
+    {
+      "name": "Jeremy Paul",
+      "role": "Lead Data Engineer"
+    }
+  ],
+  "client_contacts": [
+    {
+      "name": "Vanessa Nguyen",
+      "title": "Head of Analytics"
+    },
+    {
+      "name": "Sarah Banks",
+      "title": "CTO"
+    },
+    {
+      "name": "Tracy Herring",
+      "title": "VP of Technology"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": 15,
+  "title": "Morgan Governance and Compliance",
+  "client": "Morgan Group",
+  "industry": "Public Sector",
+  "summary": "Morgan Group engaged our consulting team to deliver a governance and compliance solution. We built scalable data pipelines, unified governance with Unity Catalog, and deployed ML models using Databricks and MLflow for advanced analytics.",
+  "tech_stack": [
+    "Databricks",
+    "Delta Lake",
+    "Unity Catalog",
+    "Python",
+    "DQX"
+  ],
+  "outcome": "Enabled real-time dashboards for executive visibility.",
+  "team_size": 5,
+  "duration_months": 11,
+  "consultants": [
+    {
+      "name": "Madeline Smith",
+      "role": "Data Quality Analyst"
+    },
+    {
+      "name": "Elizabeth Mcneil",
+      "role": "DevOps Engineer"
+    },
+    {
+      "name": "Adriana Jones",
+      "role": "Cloud Architect"
+    },
+    {
+      "name": "Jennifer May",
+      "role": "Machine Learning Engineer"
+    }
+  ],
+  "client_contacts": [
+    {
+      "name": "Jacob Hopkins",
+      "title": "Director of Data Engineering"
+    },
+    {
+      "name": "Jennifer Velasquez",
+      "title": "CTO"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": 41,
+  "title": "Jackson Predictive Modeling",
+  "client": "Jackson and Sons",
+  "industry": "Manufacturing",
+  "summary": "Jackson and Sons engaged our consulting team to deliver a predictive modeling solution. We built scalable data pipelines, unified governance with Unity Catalog, and deployed ML models using Databricks and MLflow for advanced analytics.",
+  "tech_stack": [
+    "Azure Synapse",
+    "Fabric",
+    "Power BI",
+    "PySpark"
+  ],
+  "outcome": "Enabled real-time dashboards for executive visibility.",
+  "team_size": 7,
+  "duration_months": 12,
+  "consultants": [
+    {
+      "name": "Deanna Gibson",
+      "role": "Data Quality Analyst"
+    },
+    {
+      "name": "David Reynolds",
+      "role": "Lead Data Engineer"
+    },
+    {
+      "name": "Aaron Diaz",
+      "role": "DevOps Engineer"
+    },
+    {
+      "name": "Justin Barajas",
+      "role": "Project Manager"
+    },
+    {
+      "name": "Nicholas Schmidt",
+      "role": "Business Analyst"
+    }
+  ],
+  "client_contacts": [
+    {
+      "name": "David Brown",
+      "title": "VP of Technology"
+    },
+    {
+      "name": "Devin Brown",
+      "title": "CIO"
+    }
+  ]
+}

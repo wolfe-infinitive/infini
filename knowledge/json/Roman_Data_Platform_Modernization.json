@@ -1,0 +1,53 @@
+{
+  "id": 33,
+  "title": "Roman Data Platform Modernization",
+  "client": "Roman Inc",
+  "industry": "Insurance",
+  "summary": "Roman Inc engaged our consulting team to deliver a data platform modernization solution. We built scalable data pipelines, unified governance with Unity Catalog, and deployed ML models using Databricks and MLflow for advanced analytics.",
+  "tech_stack": [
+    "AWS Glue",
+    "S3",
+    "Lambda",
+    "Redshift",
+    "MLflow"
+  ],
+  "outcome": "Lowered infrastructure cost by 25% using serverless ETL pipelines.",
+  "team_size": 5,
+  "duration_months": 9,
+  "consultants": [
+    {
+      "name": "William Greene",
+      "role": "Engagement Manager"
+    },
+    {
+      "name": "Carrie Bush",
+      "role": "Lead Data Engineer"
+    },
+    {
+      "name": "Rachel Williams",
+      "role": "Business Analyst"
+    },
+    {
+      "name": "Jeffrey Blake",
+      "role": "Machine Learning Engineer"
+    },
+    {
+      "name": "Debbie Fisher",
+      "role": "Project Manager"
+    }
+  ],
+  "client_contacts": [
+    {
+      "name": "Rodney Moody",
+      "title": "Head of Analytics"
+    },
+    {
+      "name": "Lauren Vega",
+      "title": "Chief Architect"
+    },
+    {
+      "name": "Corey James",
+      "title": "Director of Data Engineering"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": 48,
+  "title": "Perez-Rogers Data Platform Modernization",
+  "client": "Perez-Rogers",
+  "industry": "Telecommunications",
+  "summary": "Perez-Rogers engaged our consulting team to deliver a data platform modernization solution. We built scalable data pipelines, unified governance with Unity Catalog, and deployed ML models using Databricks and MLflow for advanced analytics.",
+  "tech_stack": [
+    "GCP BigQuery",
+    "Vertex AI",
+    "Looker Studio"
+  ],
+  "outcome": "Implemented end-to-end observability and automated DQX checks.",
+  "team_size": 5,
+  "duration_months": 5,
+  "consultants": [
+    {
+      "name": "Sierra Palmer",
+      "role": "Data Quality Analyst"
+    },
+    {
+      "name": "Christopher Gardner",
+      "role": "DevOps Engineer"
+    },
+    {
+      "name": "Matthew Rogers",
+      "role": "Project Manager"
+    },
+    {
+      "name": "Nicholas Peters",
+      "role": "Cloud Architect"
+    },
+    {
+      "name": "Sandra Ortega",
+      "role": "Engagement Manager"
+    }
+  ],
+  "client_contacts": [
+    {
+      "name": "Heather Johnson",
+      "title": "Chief Architect"
+    },
+    {
+      "name": "David Fernandez",
+      "title": "VP of Technology"
+    },
+    {
+      "name": "William Carter",
+      "title": "Head of Analytics"
+    }
+  ]
+}
